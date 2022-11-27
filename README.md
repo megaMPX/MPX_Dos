@@ -7,7 +7,7 @@ Fast and tunable DDOS written on python
 **Python 3.8+ required!!!**
 
 
-`git clone`
+`git clone https://github.com/megaMPX/MPX_Dos`
 
 `cd MPX_Dos`
 
@@ -24,7 +24,7 @@ Fast and tunable DDOS written on python
 ## Installation for Linux, Mac, Termux :
 **Python 3.8+ required!!!**
 
-`git clone`
+`git clone https://github.com/megaMPX/MPX_Dos`
 
 `cd MPX_Dos`
 
