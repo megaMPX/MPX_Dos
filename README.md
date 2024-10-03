@@ -40,8 +40,4 @@ Fast and tunable DDOS written on python
 
 
 
-## Contact Me
-
-
- https://t.me/andrey1972pp
 
